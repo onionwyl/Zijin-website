@@ -1,0 +1,174 @@
+.loginheader{
+	width: 500px;
+	height: 160px;
+	margin: 20px auto;
+	padding: 10px;
+/*	border: 1px dotted grey;*/
+	text-align: center;
+}
+.login-logo{
+	width: 80px;
+	height: 80px;
+}
+p.header1{
+	font-size: 30px;
+	line-height: 20px;
+}
+p.header2{
+	font-size: 15px;
+	line-height: 10px;
+}
+.loginform{
+	text-align: center;
+	width: 500px;
+	/*height: 300px;*/
+	margin: 10px auto;
+}
+.loginform .shuru{
+	width: 300px;
+	height: 20px;
+	margin: 5px;
+	font-size: 15px;
+	color: grey;
+	padding: 10px;
+	border: 1px solid lightgrey;
+}
+.loginbutton{
+	margin: 10px;
+	width: 320px;
+	height: 45px;
+	background-color: forestgreen;
+	color: white;
+	font-size: 18px;
+	border: none;
+}
+
+.otherloginboder{
+	margin-top: 20px;	
+	width: 480px;
+	height: 20px;
+	border: none;
+	border-top: 1px solid lightgrey;
+	color: grey;
+}
+.otherloginlogo{
+	text-decoration: none;
+}
+.signup{
+	margin: 20px;
+}
+.signup a{
+	text-decoration: none;
+	color: black;
+	font-size: 16px;
+	margin: 10px;
+}
+.footer{
+	margin-top: 50px;
+	margin-bottom: 10px;
+	height: 60px;
+	width: 100%;
+	text-align: center;
+}
+.linkbottom a{
+	text-decoration: none;
+	color: black;
+}
+.beian,.beian a{
+	text-decoration: none;
+	color: grey;
+}
+.reglegend{
+	text-align: center;
+}
+.regbutton{
+	margin: 5px;
+	width: 320px;
+	height: 45px;
+	background-color: dodgerblue;
+	color: white;
+	font-size: 16px;
+	border: none;
+}
+
+.updatepassbutton{
+	clear: both;
+	margin-top: 10px;
+	margin-left: 120px;
+	width: 240px;
+	height: 50px;
+	background-color: dodgerblue;
+	color: white;
+	font-size: 18px;
+	border: none;
+}
+.logoutbutton{
+	clear: both;
+	margin-top: 10px;
+	margin-left: 50px;
+	width: 240px;
+	height: 50px;
+	background-color: brown;
+	color: white;
+	font-size: 18px;
+	border: none;
+}
+.updateform{
+	display: inline;
+	margin-left: 20px;
+}
+.updateinput{
+	width: 250px;
+	height: 30px;
+	font-size: 20px;
+	margin-right: 5px;
+}
+
+.updatebutton{
+	width: 80px;
+	height: 30px;
+	background-color: dodgerblue;
+	color: white;
+	font-size: 16px;
+	border: none;	
+}
+.myinfo{
+	text-align: left;
+	border: 1px dotted gray;
+	width: 800px;
+	padding: 40px;
+	margin: 10px auto;
+	font-size: 20px;
+	line-height: 40px;
+}
+.backtomine{
+	margin-left: 90px;
+	width: 320px;
+	height: 45px;
+	background-color: forestgreen;
+	color: white;
+	font-size: 18px;
+	border: none;
+}
+.backupdate{
+	margin-left: 10px;
+	width: 400px;
+	font-size: 16px;
+	color: red;
+}
+.explain{
+	font-size: 15px;
+	color: dimgray;
+	margin-left: 100px;
+}
+.level{
+	float: left;
+}
+.levelupdate{
+	width: 120px;
+	height: 20px;
+	border: 2px solid gray;
+	float: left;
+	margin-top: 8px; 
+}
+
